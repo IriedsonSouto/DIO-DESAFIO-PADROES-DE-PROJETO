@@ -1,11 +1,11 @@
-# Criando uma aplicação que utilize padrões de projeto.
+# Criando uma aplicaÃ§Ã£o que utilize padrÃµes de projeto.
 
-Simples desafio proposto pelo instrutor da DIO, em que busca trabalhar alguns padrões de projeto utilizando da linguagem Java.
+Simples desafio proposto pelo instrutor da DIO, em que busca trabalhar alguns padrÃµes de projeto utilizando da linguagem Java.
 
-Na aplicação em questão podemos observar a utilização de três padroes:
+Na aplicaÃ§Ã£o em questÃ£o podemos observar a utilizaÃ§Ã£o de trÃªs padroes:
 
-Singleton: Ele foi implementado na classe SingletonLogger, onde a mesma é responsavel por armazenar e exibir mensagens referente a aplicação.
+Singleton: Ele foi implementado na classe SingletonLogger, onde a mesma Ã© responsavel por armazenar e exibir mensagens referente a aplicaÃ§Ã£o.
 
-Facade: Ele foi implementado na classe FachadaCadastramentoPessoas, na ocasiao a mesma abstrai para o cliente todas manipulações nescessarias para lidar com o objeto pessoa, simplificando a aplicação para o cliente.
+Facade: Ele foi implementado na classe FachadaCadastramentoPessoas, na ocasiao a mesma abstrai para o cliente todas manipulaÃ§Ãµes nescessarias para lidar com o objeto pessoa, simplificando a aplicaÃ§Ã£o para o cliente.
 
-Strategy: Ele foi implementado na classe StrategyComportamentoPessoa e a mesma é responsavel por proporcionar para o objeto pessoa, comportamentos diferentes de enviar uma mesagem.
+Strategy: Ele foi implementado na classe StrategyComportamentoPessoa e a mesma Ã© responsavel por proporcionar para o objeto pessoa, comportamentos diferentes de enviar uma mensagem.
